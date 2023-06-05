@@ -2,11 +2,9 @@
 -**IMTA**
 - [IMTA](https://www.gob.mx/imta)
 
-- [NOAA](https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/#) **NOAA (USF) *Sargassum* data: AFAI**
-- **NCEP Forecast wind data**
-- [NCEP](https://polar.ncep.noaa.gov/waves/download2.shtml?)
-- **NCEP Forecast wind data**
-- [HYCOM](https://www.hycom.org/)
+- **NOAA (USF) *Sargassum* data: AFAI** [NOAA](https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/#) 
+- **NCEP Forecast wind data** [NCEP](https://polar.ncep.noaa.gov/waves/download2.shtml?)
+- **NCEP Forecast current data** [HYCOM](https://www.hycom.org/)
 - 
 
 
