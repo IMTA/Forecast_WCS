@@ -5,4 +5,4 @@
 - **IPN** [IPN](https://www.cicimar.ipn.mx/)
 - **NOAA (USF) *Sargassum* data: AFAI** [NOAA](https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/#) 
 - **NCEP Forecast wind data** [NCEP](https://polar.ncep.noaa.gov/waves/download2.shtml?)
-- **HYCOM Forecast current data** [HYCOM](https://www.hycom.org/)
+- **CMEMS Forecast current data** [Copernicus Marine Environmental Monitoring Service](https://www.hycom.org/)
